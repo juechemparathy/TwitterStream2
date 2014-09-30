@@ -5,6 +5,7 @@ import android.content.Context;
 import com.codepath.oauth.OAuthBaseClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.loopj.android.http.RequestParams;
+import com.yahoo.twitterstream.models.User;
 
 import org.scribe.builder.api.Api;
 import org.scribe.builder.api.TwitterApi;
@@ -24,8 +25,8 @@ import org.scribe.builder.api.TwitterApi;
 public class TwitterClient extends OAuthBaseClient {
 	public static final Class<? extends Api> REST_API_CLASS = TwitterApi.class; // Change this
 	public static final String REST_URL = "https://api.twitter.com/1.1"; // Change this, base API URL
-	public static final String REST_CONSUMER_KEY = "GiySfVyU448hvbBRDaPQxbT2L";       // Change this
-	public static final String REST_CONSUMER_SECRET = "rnU9rbkUL80CNZlid8XmNAfs1XmeOGdkCPDYwfjM6avkhp0ZPl"; // Change this
+	public static final String REST_CONSUMER_KEY = "AaJlSeNyulclOKTm1ZrqVly0c";       // Change this
+	public static final String REST_CONSUMER_SECRET = "b7TneT3UuBMvDXosHOLQpcmvFRjZCk7J2yNnEqhdwdlQq5vUEW"; // Change this
 	public static final String REST_CALLBACK_URL = "oauth://cptwitterstream"; // Change this (here and in manifest)
 
 	public TwitterClient(Context context) {
@@ -43,6 +44,17 @@ public class TwitterClient extends OAuthBaseClient {
 
     public void getHomeTimeLine(AsyncHttpResponseHandler responseHandler){
         String url = getApiUrl("statuses/home_timeline.json");
+        RequestParams params = new RequestParams();
+        params.put("since_id","1");
+        //if no params pass null below
+        client.get(url,params,responseHandler);
+    }
+
+    public void getUserTimeLine(User user,AsyncHttpResponseHandler responseHandler){
+        String url = getApiUrl("statuses/user_timeline.json");
+        if(user !=null){
+            url = url +"?"+"user_id="+user.getScreenanme();
+        }
         RequestParams params = new RequestParams();
         params.put("since_id","1");
         //if no params pass null below

@@ -2,9 +2,16 @@ package fragments;
 
 import android.os.Bundle;
 import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
 
 import com.loopj.android.http.JsonHttpResponseHandler;
+import com.yahoo.twitterstream.TwitterApplication;
+import com.yahoo.twitterstream.models.Tweet;
+import com.yahoo.twitterstream.models.User;
 
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 /**
@@ -12,20 +19,35 @@ import org.json.JSONObject;
  */
 public class UserTimeLineFragment extends TweetsListFragment {
 
+    private User u;
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        populateTimeline();
+        populateUserProfile();
+        populateUserTimeline();
     }
 
-    public void populateTimeline(){
-        getClient().getMyInfo(new JsonHttpResponseHandler(){
+    public void populateUserProfile(){
+
+        TwitterApplication.getRestClient().getMyInfo(new JsonHttpResponseHandler() {
+            @Override
+            public void onSuccess(JSONObject jsonObject) {
+                u = User.fromJson(jsonObject);
+                getActivity().getActionBar().setTitle("@" + u.getScreenanme());
+            }
+        });
+    }
+
+    public void populateUserTimeline(){
+        getClient().getUserTimeLine(u,new JsonHttpResponseHandler() {
 
             @Override
-            public void onSuccess(JSONObject json) {
+            public void onSuccess(JSONArray json) {
                 super.onSuccess(json);
                 Log.d("Debug", json.toString());
 //                aTweets.clear();
+                addAll(Tweet.fromJson(json));
 //                aTweets.notifyDataSetChanged();
             }
 
@@ -37,5 +59,11 @@ public class UserTimeLineFragment extends TweetsListFragment {
             }
 
         });
+    }
+
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        return super.onCreateView(inflater, container, savedInstanceState);
+
     }
 }
