@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ptr_pulltorefresh_arrow"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-hdpi/ptr_pulltorefresh_arrow.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_compose"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-hdpi/twitter_compose.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_home"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-hdpi/twitter_home.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_icon"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-hdpi/twitter_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_mentions"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-hdpi/twitter_mentions.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_profile"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-hdpi/twitter_profile.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ptr_pulltorefresh_arrow"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-mdpi/ptr_pulltorefresh_arrow.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_compose"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-mdpi/twitter_compose.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_home"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-mdpi/twitter_home.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_icon"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-mdpi/twitter_icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_mentions"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-mdpi/twitter_mentions.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_profile"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-mdpi/twitter_profile.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ptr_pulltorefresh_arrow"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xhdpi/ptr_pulltorefresh_arrow.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_compose"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xhdpi/twitter_compose.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_home"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xhdpi/twitter_home.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_icon"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xhdpi/twitter_icon.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_mentions"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xhdpi/twitter_mentions.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_profile"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xhdpi/twitter_profile.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ptr_pulltorefresh_arrow"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xxhdpi/ptr_pulltorefresh_arrow.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_compose"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xxhdpi/twitter_compose.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_home"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xxhdpi/twitter_home.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_icon"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xxhdpi/twitter_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_mentions"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xxhdpi/twitter_mentions.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_profile"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/drawable-xxhdpi/twitter_profile.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_compose"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/layout/activity_compose.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_login"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/layout/activity_login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_profile"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/layout/activity_profile.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_timeline"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/layout/activity_timeline.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_tweets_list"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/layout/fragment_tweets_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ptr_header"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/layout/ptr_header.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="tweet_item"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/layout/tweet_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="action_menu"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/menu/action_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="compose"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/menu/compose.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="entry"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/menu/entry.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="login"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/menu/login.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="photos"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/menu/photos.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="profile"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/menu/profile.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="timeline"
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/menu/timeline.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/values/ptr_default_style.xml"
+                qualifiers="" >
+
+                <style name="ptr_header" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:padding">
+5dp
+                    </item>
+                    <item name="android:gravity">
+center_vertical
+                    </item>
+                </style>
+
+                <style name="ptr_headerContainer" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+0px
+                    </item>
+                    <item name="android:gravity">
+bottom
+                    </item>
+                </style>
+
+                <style
+                    name="ptr_spinner"
+                    parent="@android:style/Widget.ProgressBar.Small" >
+                    <item name="android:layout_width">
+wrap_content
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:layout_centerVertical">
+true
+                    </item>
+                    <item name="android:indeterminate">
+true
+                    </item>
+                    <item name="android:layout_marginLeft">
+25dp
+                    </item>
+                </style>
+
+                <style
+                    name="ptr_last_updated"
+                    parent="ptr_text" >
+                    <item name="android:textStyle">
+normal
+                    </item>
+                    <item name="android:visibility">
+gone
+                    </item>
+                    <item name="android:layout_weight">
+1
+                    </item>
+                    <item name="android:textAppearance">
+?android:attr/textAppearanceSmall
+                    </item>
+                    <item name="android:layout_below">
+@+id/ptr_id_text
+                    </item>
+                </style>
+
+                <style name="ptr_text" >
+                    <item name="android:layout_width">
+wrap_content
+                    </item>
+                    <item name="android:layout_height">
+fill_parent
+                    </item>
+                    <item name="android:gravity">
+center
+                    </item>
+                    <item name="android:layout_weight">
+1
+                    </item>
+                    <item name="android:textAppearance">
+?android:attr/textAppearanceMedium
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:textColor">
+@android:color/black
+                    </item>
+                </style>
+
+                <style name="ptr_textwrapper" >
+                    <item name="android:layout_width">
+wrap_content
+                    </item>
+                    <item name="android:layout_height">
+fill_parent
+                    </item>
+                    <item name="android:layout_centerInParent">
+true
+                    </item>
+                    <item name="android:orientation">
+vertical
+                    </item>
+                    <item name="android:gravity">
+center_horizontal
+                    </item>
+                </style>
+
+                <style name="ptr_arrow" >
+                    <item name="android:layout_width">
+wrap_content
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:layout_centerVertical">
+true
+                    </item>
+                    <item name="android:src">
+@drawable/ptr_pulltorefresh_arrow
+                    </item>
+                    <item name="android:layout_marginLeft">
+25dp
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="login_label" >Connect to Twitter
+                </string>
+                <string name="title_activity_timeline" >Timeline
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_compose" >Compose
+                </string>
+                <string name="ptr_pull_to_refresh" >Pull to refresh
+                </string>
+                <string name="ptr_last_updated" >Updated: %1$s
+                </string>
+                <string name="app_name" >Twitter Stream
+                </string>
+                <string name="title_activity_profile" >Profile
+                </string>
+                <string name="ptr_refreshing" >Refreshing…
+                </string>
+                <string name="hello_world" >Twitter Stream
+                </string>
+                <string name="title_activity_photos" >Flickr Photos
+                </string>
+                <string name="ptr_release_to_refresh" >Release to refresh
+                </string>
+            </file>
+            <file
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/jue/AndroidWorkSpace/TwitterStream/app/build/generated/res/rs/debug" />
+        <source path="/Users/jue/AndroidWorkSpace/TwitterStream/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/jue/AndroidWorkSpace/TwitterStream/app/src/debug/res" />
+    </dataSet>
+
+</merger>

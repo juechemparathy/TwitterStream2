@@ -21,8 +21,8 @@ public class TweetArrayAdapter extends ArrayAdapter<Tweet>{
 
     public TweetArrayAdapter(Context context, List<Tweet> objects) {
         super(context,0,objects);
-    }
 
+    }
 
     public View getView(int position,View convertView,ViewGroup parent){
         Tweet tweet = getItem(position);

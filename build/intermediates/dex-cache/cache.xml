@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/jue/AndroidWorkSpace/TwitterStream/app/build/intermediates/pre-dexed/debug/android-support-v4-3812aab51f5f4cb94a25c2642ba8b4c57febed7f.jar"
+        jar="/Users/jue/AndroidWorkSpace/TwitterStream/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308"/>
+    <item
+        dex="/Users/jue/AndroidWorkSpace/TwitterStream/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.3.0-45c36903d10807ee6cee8e685b177514d93d4583.jar"
+        jar="/Users/jue/AndroidWorkSpace/TwitterStream/app/libs/codepath-oauth-0.3.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b90f1c3541987f690e2fb854775914cc23266250"/>
+    <item
+        dex="/Users/jue/AndroidWorkSpace/TwitterStream/app/build/intermediates/pre-dexed/debug/codepath-utils-f41e8ebbfdab182e2b1d53252244cd0aa8772260.jar"
+        jar="/Users/jue/AndroidWorkSpace/TwitterStream/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4"/>
+    <item
+        dex="/Users/jue/AndroidWorkSpace/TwitterStream/app/build/intermediates/pre-dexed/debug/scribe-codepath-d67cdd27ddf33d5ccd4f9516b8ca772350a183f5.jar"
+        jar="/Users/jue/AndroidWorkSpace/TwitterStream/app/libs/scribe-codepath.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6e0748acc9e7be0695de0d38016d260df52d9167"/>
+    <item
+        dex="/Users/jue/AndroidWorkSpace/TwitterStream/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.4-ee12d0c57246e4ea240c70c4dcb5693af3c36bbd.jar"
+        jar="/Users/jue/AndroidWorkSpace/TwitterStream/app/libs/universal-image-loader-1.8.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede"/>
+    <item
+        dex="/Users/jue/AndroidWorkSpace/TwitterStream/app/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-adcddac4c58-f0ce3086ec5d57b7b9c7d3182a47482f4c0d7829.jar"
+        jar="/Users/jue/AndroidWorkSpace/TwitterStream/app/libs/ActiveAndroid-3.1-adcddac4c58.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e550c03ed8bcfe3b9f97d8c5ce6e8ee305f3beed"/>
+    <item
+        dex="/Users/jue/AndroidWorkSpace/TwitterStream/app/build/intermediates/pre-dexed/debug/picasso-2.3.4-bcc35497b35aa862a8809b25b6cf64f3eadba519.jar"
+        jar="/Users/jue/AndroidWorkSpace/TwitterStream/app/libs/picasso-2.3.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3b646ddbdac8a33fc45b64564011da81d23e4635"/>
+    <item
+        dex="/Users/jue/AndroidWorkSpace/TwitterStream/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-8892d70cd4d4304819ab63d5ecdc3938a3e4f095.jar"
+        jar="/Users/jue/AndroidWorkSpace/TwitterStream/app/libs/android-async-http-1.4.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8"/>
+
+</pre-dex-items>
